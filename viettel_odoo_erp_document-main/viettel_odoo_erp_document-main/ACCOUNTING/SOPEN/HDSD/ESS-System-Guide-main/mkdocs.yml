@@ -1,0 +1,38 @@
+site_name: Hướng dẫn sử dụng hệ thống vERP
+
+nav:
+    - 'Trang chủ': 'index.md'
+    - 'Nhân sự': 
+        - 'Giới thiệu về phân hệ Quản lý nhân sự': 'hrm/introduction.md'
+        - 'Thiết lập và khai báo ban đầu': 'hrm/initialization.md'
+        - 'Các thuật ngữ và từ viết tắt': 'hrm/abbreviations.md'
+        - 'Hướng dẫn sử dụng chức năng':
+            - 'Khai báo danh mục': 'hrm/master-datas.md'
+            - 'Tuyển dụng': 'hrm/recruitment.md'
+            - 'Nhân viên': 'hrm/employee.md'
+            # - 'Hợp đồng':
+            # - 'Yêu cầu chấm công':
+            # - 'Chấm công':
+            # - 'Tiền lương':
+        - 'Lịch sử phát triển sản phẩm': 'hrm/log-histories.md'
+    - 'Kế toán': 
+        - 'Giới thiệu về phân hệ Kế toán': 'finance/fin-introduction.md'
+        - 'Thiết lập và khai báo ban đầu': 'finance/fin-initialization.md'
+        - 'Các thuật ngữ và từ viết tắt': 'finance/fin-abbreviations.md'
+        - 'Hướng dẫn sử dụng chức năng':
+            - 'Khai báo danh mục': 'finance/fin-danh-muc-new.md'
+            - 'Quản lý tiền': 'finance/fin-tien.md'
+            - 'Mua hàng': 'finance/fin-mua-hang.md'
+            - 'Bán hàng': 'finance/fin-ban-hang.md'
+            # - 'Kế toán tổng hợp': 'finance/fin-ke-toan-tong-hop.md'
+            # - 'Kho vận': 'finance/fin-kho.md'
+            # - 'Sản xuất': 'finance/fin-san-xuat.md'
+            # - 'Tài sản cố định': 'finance/fin-tscd.md'
+            # - 'Công cụ dụng cụ': 'finance/fin-ccdc.md'
+            # - 'Hợp đồng': fin-ke-toan-tong-hop
+            # - 'Yêu cầu chấm công':
+            # - 'Chấm công':
+            # - 'Tiền lương':
+        - 'Lịch sử phát triển sản phẩm': 'finance/fin-log-histories.md'
+    - 'Release Notes': 'release-notes.md'
+theme: readthedocs
